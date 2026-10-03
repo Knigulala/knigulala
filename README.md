@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- Business Product Owner working on mobile and web banking in Prague
+- Learning GitHub and building small projects with AI tools
 <!--
 **Knigulala/knigulala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
